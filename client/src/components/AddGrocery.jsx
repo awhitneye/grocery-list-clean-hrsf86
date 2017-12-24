@@ -8,7 +8,7 @@ class AddGrocery extends React.Component {
   }
 
   render () {
-    return null;
+    return 
   }
 }
 
